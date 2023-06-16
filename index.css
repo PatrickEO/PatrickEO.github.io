@@ -34,7 +34,9 @@
   height: fit-content;
   width: auto;
   color: gold;
+  margin: 0;
+  font-family: 'Rubik Mono One', sans-serif;
   font-size: xx-large;
-  font-style: oblique;
+  font-style: normal;
   text-align: center;
 }
